@@ -18,4 +18,5 @@ terzo deve consentire le query necessarie per leggere uno o più fotogrammi nell
 
 ##Team
 · Portas Michele (PM)
+
 · Mameli Alessio (Developer)
