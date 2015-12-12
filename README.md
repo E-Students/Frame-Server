@@ -2,6 +2,7 @@
 
 ##Introduzione
 Gira un server SQL standard su cui risiede il database dei fotogrammi cifrati dei vari filmati registrati.
+
 Periodicamente provvede alla cancellazione delle registrazioni video più vecchie.
 
 ##Indicazioni sui servizi del Server SQL (Frame Server)
