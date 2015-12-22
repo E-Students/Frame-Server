@@ -1,5 +1,5 @@
-#CREAZIONE DATABASE Frame-Server
 
+#CREAZIONE DATABASE Frame-Server
 drop database if exists framedb;
 create database framedb;
 use framedb;
@@ -12,5 +12,5 @@ create table frame
    foto LONGBLOB,
    ora Time,
    giorno Date,  
-   primary key(IdFoto)
+   primary key(idFoto)
 );
